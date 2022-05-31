@@ -241,3 +241,10 @@ void search()
         }  
     }          
 }  
+output;
+Enter your choice?
+1
+
+Enter Item value: 5
+
+Node inserted
