@@ -67,7 +67,10 @@ int main() {
     return 0;
 }
 output:
-r
-  ...............
-
-output is empty
+5
+6
+7
+8
+8
+6
+6 6 7 8 8 
