@@ -66,4 +66,8 @@ int main() {
     preOrder(root);
     return 0;
 }
+output:
+r
+  ...............
 
+output is empty
