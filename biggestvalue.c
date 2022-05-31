@@ -7,3 +7,9 @@ t=(a>b)? a:b;
 max=(t>c)? t:c;
 printf("max valueis %d\n",max);
 }
+output:
+enter three different numbers
+2
+3
+4
+max value is 4
