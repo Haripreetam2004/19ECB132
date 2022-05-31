@@ -78,3 +78,13 @@ int main()
     return 0;
 }
 
+output
+Enter size of array4
+Enter 1 element2
+Enter 2 element3
+Enter 3 element4
+Enter 4 element4
+Enter i to insert/ d to deletei
+Enter element to insert3
+Enter positon4
+2 3 4 3 4
