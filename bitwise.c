@@ -6,3 +6,6 @@ main()
 	printf("a=%d,b=%d",a,b);
 	printf("\n r=%d",r);
 }
+output:
+a=-25,b=-14
+ r=21
