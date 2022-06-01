@@ -20,7 +20,7 @@ void  main()
     } 
     printf("\n");	
 }
-output:
+/*output:
 Input 10 elements in the array :
 element - 0 : 1
 element - 1 : 1
@@ -33,4 +33,4 @@ element - 7 : 7
 element - 8 : 4
 element - 9 : 6
 
-Elements in array are: 1  1  2  3  4  5  6  7  4  6  
+Elements in array are: 1  1  2  3  4  5  6  7  4  6  */
