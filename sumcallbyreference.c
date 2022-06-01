@@ -15,8 +15,8 @@ int add(int *x, int *y)
 	z=*x+*y;
 	return(z);
 }
-output:
+/*output:
 Enter Two Values: 
 8
 9
-The Sum is: 17 
+The Sum is: 17 */
