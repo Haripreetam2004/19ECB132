@@ -78,6 +78,7 @@ int main()
     return 0;
 }
 
+
 /*output
 Enter size of array4
 Enter 1 element2
