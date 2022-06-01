@@ -25,6 +25,7 @@ void preorderTraversal(struct node* root) {
   preorderTraversal(root->right);
 }
 
+
 // Postorder traversal
 void postorderTraversal(struct node* root) {
   if (root == NULL) 
