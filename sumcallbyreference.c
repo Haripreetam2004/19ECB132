@@ -15,6 +15,7 @@ int add(int *x, int *y)
 	z=*x+*y;
 	return(z);
 }
+
 /*output:
 Enter Two Values: 
 8
