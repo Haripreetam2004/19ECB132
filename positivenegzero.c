@@ -19,6 +19,7 @@ int main()
     }
     return 0;
 }
+
 /*outout:
 Enter any number: -54
 Number is NEGATIVE*/
