@@ -19,6 +19,6 @@ int main()
     }
     return 0;
 }
-outout:
+/*outout:
 Enter any number: -54
-Number is NEGATIVE
+Number is NEGATIVE*/
