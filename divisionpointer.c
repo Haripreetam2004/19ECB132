@@ -10,5 +10,6 @@ int main()
     printf("Division is: %d",div);
     return 0;
 }
+
 /*output:
 Division is: 20 */
