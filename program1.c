@@ -83,6 +83,7 @@ int main() {
     printf("%d",getHeight(root));
     return 0;
 }
+
 /*output:
 r
 -1*/
