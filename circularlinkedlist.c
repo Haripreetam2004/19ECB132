@@ -88,6 +88,7 @@ void main() {
    printf("\nList after deleting all items: ");
    printList();   
 }
+
 /*output:
 Original List: 
 [ (6,56) (5,40) (4,1) (3,30) (2,20)  ]
