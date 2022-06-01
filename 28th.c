@@ -9,6 +9,8 @@ int main()
   }
   return 0;
 }
+
+
 /*output:
 Enter an integer: 7
 7 * 1 = 7 
