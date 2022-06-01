@@ -23,9 +23,9 @@ int main()
   	return 0;
 }
 
-output:
+/*output:
 Please Enter any String :  3
 
  Please Enter the Character that you want to Search for :  3
 
- '3' is Found at Position 1
+ '3' is Found at Position 1*/
