@@ -10,6 +10,6 @@ main()
 	 }
 	 printf("%d",s);
 }
-output:
+/*output:
 enter a value 8
-40320
+40320*/
