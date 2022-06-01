@@ -9,7 +9,7 @@ int main()
   }
   return 0;
 }
-output:
+/*output:
 Enter an integer: 7
 7 * 1 = 7 
 7 * 2 = 14 
@@ -20,4 +20,4 @@ Enter an integer: 7
 7 * 7 = 49 
 7 * 8 = 56 
 7 * 9 = 63 
-7 * 10 = 70 
+7 * 10 = 70*/
