@@ -20,6 +20,7 @@ void  main()
     } 
     printf("\n");	
 }
+
 /*output:
 Input 10 elements in the array :
 element - 0 : 1
